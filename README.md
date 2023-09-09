@@ -12,3 +12,15 @@ Used Elements:
 <h3> <h2>
 <nav>
 <p>
+<b>
+<a>
+<ul>
+<ol>
+<li>
+<table>
+<tr>
+<th>
+<img>
+<audio>
+<footer>
+<article>
