@@ -9,11 +9,12 @@ Used Elements:
 <title>
 <body>
 <div>
-<h3> <h2>
+<h3> <h2> <h5>
 <nav>
 <p>
 <b>
 <a>
+<i>
 <ul>
 <ol>
 <li>
@@ -22,5 +23,14 @@ Used Elements:
 <th>
 <img>
 <audio>
+<source>
 <footer>
 <article>
+<iframe>
+<hr>
+<br>
+<details>
+<summary>
+<button>
+<dialog>
+<embed>
